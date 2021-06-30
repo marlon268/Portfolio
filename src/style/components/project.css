@@ -1,0 +1,24 @@
+.projects-logo {
+  display: flex;
+}
+.projects-logo img {
+  width: 40px;
+}
+.projects-container {
+  width: 80%;
+  max-width: 620px;
+}
+.projects-project {
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.projects-project img {
+  width: 100%;
+  max-width: 600px;
+}
+.projects-project img:focus {
+  transform: scale(1.4);
+}
