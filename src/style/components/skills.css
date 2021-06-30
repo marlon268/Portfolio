@@ -1,0 +1,12 @@
+.logo-tecnology {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.logo-tecnology img {
+  width: 50px;
+}
+.logo-tecnology h3 {
+  font-size: 2rem;
+}

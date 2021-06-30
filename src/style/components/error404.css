@@ -1,0 +1,9 @@
+.content-error404 {
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+.error404 {
+  width: 350px;
+  height: 400px;
+}

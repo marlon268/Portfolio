@@ -1,0 +1,47 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+}
+nav {
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.nav-logos {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.nav-logos:hover {
+  transform: scale(1.1);
+}
+.nav-logos h3 {
+  margin-left: 5px;
+  font-size: 1.2rem;
+  text-align: center;
+}
+img {
+  width: 25px;
+  margin-bottom: 10px;
+}
+
+.name-logos {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-right: 30px;
+}
+.logos-redes-sociales {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+.logos-redes-sociales a {
+  display: flex;
+  margin: 0 10px;
+}
+.logo-pagina {
+  margin-top: 10px;
+}
